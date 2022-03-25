@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    height: 500px;
+    justify-content: center; /* Alinhamento horizontal */
+    /*align-items: center;  Alinhamento verdical*/
+    background-color: #eee;
+}
+
+.container div{
+    width: 100px;
+    background-color: #ff0000;
+    margin: 10px;
+    padding: 10px;
+    font-size:50px;
+    text-align: center;
+    color: #ffffff;
+    }
+
+    
+  
